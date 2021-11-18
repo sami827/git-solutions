@@ -1,5 +1,9 @@
 git commands
 
-git push origin HEAD:master git push origin HEAD:main
+-> git push origin HEAD:master 
 
-git remote set-url origin
+-> git push origin HEAD:main
+
+Set URL: git remote set-url origin [site name]
+
+Final: git push -u origin main
