@@ -7,3 +7,5 @@ git commands
 Set URL: git remote set-url origin [site name]
 
 Final: git push -u origin main
+
+You can change to master and other branches as well
