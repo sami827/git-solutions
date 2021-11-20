@@ -14,3 +14,5 @@ How to update local repo if i make changes to online repo:
 https://www.codegrepper.com/code-examples/shell/how+to+update+local+repo+when+i+make+changes+to+github+remote+repo
 
 https://www.neonscience.org/resources/learning-hub/tutorials/git-setup-remote
+
+more details
