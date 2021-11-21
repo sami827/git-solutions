@@ -24,4 +24,15 @@ C:\Users\saobi>git config --global -e
 =======
 more detail
 New line probly
+
+/************************* When Editing with code editors use this commands
+
+git config --global core.autocrlf true
+
+C:\Users\saobi>git config --global core.editor "code --wait
+
+C:\Users\saobi>git config --global -e
+
+/*******************************
+
 >>>>>>> 7cf0561ad015341d793afdd82371daa668b45f43
