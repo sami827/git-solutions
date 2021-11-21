@@ -15,8 +15,13 @@ https://www.codegrepper.com/code-examples/shell/how+to+update+local+repo+when+i+
 
 https://www.neonscience.org/resources/learning-hub/tutorials/git-setup-remote
 
+<<<<<<< HEAD
 git config --global core.autocrlf true
 
 C:\Users\saobi>git config --global core.editor "code --wait
 
 C:\Users\saobi>git config --global -e
+=======
+more detail
+New line probly
+>>>>>>> 7cf0561ad015341d793afdd82371daa668b45f43
