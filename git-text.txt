@@ -22,7 +22,7 @@ C:\Users\saobi>git config --global core.editor "code --wait
 
 C:\Users\saobi>git config --global -e
 =======
-more detail
+more details
 New line probly
 
 /************************* When Editing with code editors use this commands
