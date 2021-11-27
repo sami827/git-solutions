@@ -8,6 +8,8 @@ Set URL: git remote set-url origin [site name]
 
 Final: git push -u origin main
 
+pull: git pull origin main
+
 Merging Conflict = --allow-unrelated-histories
 
 You can change to master and other branches as well
