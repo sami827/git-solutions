@@ -39,6 +39,9 @@ C:\Users\saobi>git config --global core.editor "code --wait
 
 C:\Users\saobi>git config --global -e
 
+
+git commiting
+
 /*******************************
 
 >>>>>>> 7cf0561ad015341d793afdd82371daa668b45f43
