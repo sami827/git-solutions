@@ -42,6 +42,12 @@ C:\Users\saobi>git config --global -e
 
 git commiting
 
+Jenkins details:
+
+java -jar jenkins.war --enable-future-java
+
+efbb1c31095b4c4fb6fffc0ba6820466
+
 /*******************************
 
 >>>>>>> 7cf0561ad015341d793afdd82371daa668b45f43
