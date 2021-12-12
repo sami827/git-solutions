@@ -40,7 +40,6 @@ C:\Users\saobi>git config --global core.editor "code --wait
 C:\Users\saobi>git config --global -e
 
 
-git commiting
 
 Jenkins details:
 
